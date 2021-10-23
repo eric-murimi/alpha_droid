@@ -1,16 +1,10 @@
-# alpha_droid
+# Alpha Droid
+A flutter project aimed at flexing thy flutter muscles.
 
-A new Flutter project.
+#
+This is an experiment with various technologies within the Flutter community.
+Currently the following technologies and libraries have been featured:
+  - [Rive](https://rive.app/): Lightweight and proweful vector animations
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors:
+- [Qwerty](mailto:murimi@qwerty.co.ke): Tech Lead
